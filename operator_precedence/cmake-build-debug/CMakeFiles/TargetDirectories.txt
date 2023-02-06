@@ -1,3 +1,0 @@
-/Users/shubhamkumar/Documents/operator_precedence/cmake-build-debug/CMakeFiles/operator_precedence.dir
-/Users/shubhamkumar/Documents/operator_precedence/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shubhamkumar/Documents/operator_precedence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
